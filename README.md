@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Liang457
-- My nickname is:Cool-GK
-- My email address is:laing2457@qq.com
-- I am a student
+我，广坤，Cool-GK
+laing2457@qq.com
